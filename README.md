@@ -1,145 +1,187 @@
 # 👋 ¡Hola! Soy Fernely Flores
 
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=🎓+Estudiante+de+Ingeniería;💻+Desarrollador+Full-Stack;🚀+Apasionado+por+la+Innovación" alt="Typing SVG" />
+</div>
+
+<div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=shadowfer&color=blueviolet&style=flat-square)
-![Coding](https://img.shields.io/badge/Coding-Passionate-brightgreen?style=flat-square)
-![Learning](https://img.shields.io/badge/Always-Learning-orange?style=flat-square)
+[![Profile Views](https://komarev.com/ghpvc/?username=shadowfer&color=00d9ff&style=flat-square&label=Visitas)](https://github.com/shadowfer)
+[![GitHub followers](https://img.shields.io/github/followers/shadowfer?label=Seguidores&style=flat-square&color=00d9ff)](https://github.com/shadowfer)
+[![GitHub stars](https://img.shields.io/github/stars/shadowfer?label=Stars&style=flat-square&color=00d9ff)](https://github.com/shadowfer)
 
 </div>
+
+---
 
 ## 🚀 Sobre mí
 
-Soy un desarrollador apasionado por la tecnología y la programación, con experiencia en múltiples lenguajes y frameworks. Me encanta crear soluciones innovadoras y aprender nuevas tecnologías constantemente.
+Soy estudiante de **Ingeniería en Desarrollo de Software y Negocios Digitales** en el Tecnológico de Software, apasionado por crear soluciones tecnológicas innovadoras que generen un impacto positivo.
 
-- 🔭 Actualmente trabajando en proyectos de desarrollo móvil y web
-- 🌱 Aprendiendo continuamente nuevas tecnologías y mejores prácticas
-- 👯 Buscando colaborar en proyectos open source interesantes
-- 💬 Pregúntame sobre desarrollo de aplicaciones, algoritmos y estructuras de datos
-- ⚡ Dato curioso: Me gusta crear juegos y aplicaciones que resuelvan problemas reales
+### 🎯 Actualmente
+- 🎓 **Estudiando:** Ingeniería en Desarrollo de Software
+- 🏦 **Desarrollando:** Decoralbank - Sistema bancario digital completo
+- 🌱 **Aprendiendo:** Arquitectura de software y mejores prácticas de desarrollo
+- 👥 **Buscando:** Colaboraciones en proyectos open source y startups
 
-## 🛠️ Tecnologías y Herramientas
+### ⚡ Dato curioso
+Me fascina resolver algoritmos complejos y crear aplicaciones que resuelvan problemas reales del mundo digital.
+
+---
+## 🛠️ Stack Tecnológico
 
 <div align="center">
-
-### Lenguajes de Programación
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-
-### Frameworks y Tecnologías
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
+  <img src="https://skillicons.dev/icons?i=java,js,python,dart,react,html,css,flutter,spring,nodejs,postgresql,mysql,git,github,vscode,aws" />
 </div>
 
-## 🎯 Proyectos Destacados
+### 💻 Lenguajes de Programación
+Java • JavaScript • Python • Dart
 
-### 🎮 [HelloKitty-Game](https://github.com/shadowfer/HelloKitty-Game)
-Un juego interactivo desarrollado en JavaScript que combina diversión y programación.
-- **Tecnología:** JavaScript
-- **Características:** Interfaz intuitiva, mecánicas de juego fluidas
-- **Estado:** ✅ Completado
+### 🎨 Frontend Development
+React • HTML5 • CSS3 • Flutter
 
-### 📱 [Flutter_APP](https://github.com/shadowfer/Flutter_APP)
-Aplicación móvil multiplataforma desarrollada con Flutter.
-- **Tecnología:** Dart/Flutter
-- **Características:** Diseño responsivo, experiencia de usuario optimizada
-- **Estado:** 🚧 En desarrollo
+### ⚙️ Backend & Databases
+Spring Boot • Node.js • PostgreSQL • MySQL
 
-### 🛒 [market-app](https://github.com/shadowfer/market-app)
-Aplicación de mercado desarrollada en Java con funcionalidades completas.
-- **Tecnología:** Java
-- **Características:** Gestión de productos, interfaz amigable
-- **Estado:** ✅ Completado
+### 🛠️ Herramientas & Plataformas
+Git • GitHub • VS Code • AWS • Oracle Cloud
 
-### 🔍 [ProyectoU3-2C](https://github.com/shadowfer/ProyectoU3-2C)
-Detector de plagio para trabajos estudiantiles - una herramienta educativa innovadora.
-- **Tecnología:** Python
-- **Características:** Algoritmos de detección, análisis de similitud
-- **Estado:** ✅ Completado
+---
 
-### 🍩 [donut_app_2c_flores](https://github.com/shadowfer/donut_app_2c_flores)
-Aplicación desarrollada en C++ con enfoque en rendimiento y eficiencia.
-- **Tecnología:** C++
-- **Características:** Optimización de memoria, algoritmos eficientes
-- **Estado:** ✅ Completado
+## 🎓 Formación Académica
+
+### 📚 Educación
+**Ingeniería en Desarrollo de Software y Negocios Digitales**  
+*Tecnológico de Software* | 2024 - En progreso
+
+### 🏅 Certificaciones Profesionales
+- **Cisco:** Computer Hardware Basics, Mobile Devices, Networking Basics
+- **AWS Academy:** Cloud Foundations
+- **Oracle:** Cloud Infrastructure Foundations, Next Education (ONE)
+
+### 🌐 Idiomas
+- 🇪🇸 **Español:** Nativo
+- 🇺🇸 **Inglés:** B1 (Intermedio)
+
+
+---
+
+## 🏆 Proyectos Destacados
+
+### 🏦 [Decoralbank](https://github.com/shadowfer/decoralbank)
+> **Sistema Bancario Digital Completo** - *Proyecto Principal*
+
+**Descripción:** Plataforma bancaria moderna con funcionalidades completas de gestión financiera.
+
+**Características principales:**
+- 💳 Gestión integral de cuentas bancarias
+- 🔄 Sistema de transacciones en tiempo real
+- 🔐 Autenticación y seguridad robusta
+- 📱 Interfaz responsive y moderna
+- 📊 Dashboard con analytics avanzados
+
+**Tecnologías:** Java, Spring Boot, PostgreSQL, React  
+**Estado:** 🚧 En desarrollo activo
+
+---
+
+### 🔍 [Detector de Plagio](https://github.com/shadowfer/ProyectoU3-2C)
+> **Herramienta Educativa para Análisis de Texto**
+
+**Descripción:** Sistema inteligente para detectar similitudes en documentos académicos.
+
+**Características principales:**
+- 🧠 Algoritmos avanzados de análisis textual
+- 📊 Reportes detallados de similitudes
+- 🎯 Interfaz educativa intuitiva
+- 📈 Métricas de precisión
+
+**Tecnologías:** Python, Algoritmos de procesamiento de texto  
+**Estado:** ✅ Completado
+
+---
+
+### 📱 [Flutter App](https://github.com/shadowfer/Flutter_APP)
+> **Aplicación Móvil Multiplataforma**
+
+**Descripción:** App móvil moderna con diseño centrado en el usuario.
+
+**Características principales:**
+- 🎨 Diseño Material Design
+- 📱 Compatible con Android e iOS
+- ⚡ Performance optimizada
+- 🔄 Sincronización en tiempo real
+
+**Tecnologías:** Dart, Flutter  
+**Estado:** 🚧 En desarrollo
+
+---
 
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  
-![shadowfer's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadowfer&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shadowfer&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shadowfer&theme=radical&hide_border=true)
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shadowfer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowfer&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
-## 💡 Áreas de Interés
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadowfer&theme=tokyonight&hide_border=true" />
+</div>
 
-```javascript
-const shadowfer = {
-    code: ["JavaScript", "Python", "C++", "Dart", "Java"],
-    technologies: {
-        mobile: ["Flutter", "Android"],
-        frontend: ["HTML", "CSS", "JavaScript"],
-        backend: ["Node.js", "Python"],
-        databases: ["MySQL", "SQLite"],
-        tools: ["Git", "VS Code", "Android Studio"]
-    },
-    currentFocus: "Desarrollo de aplicaciones móviles con Flutter",
-    funFact: "Me encanta resolver algoritmos complejos y crear juegos"
-};
-```
+---
 
-## 🎨 Cuando no estoy programando...
+## 🎯 Objetivos y Metas
 
-- 🎮 Jugando videojuegos y analizando su mecánica
-- 📚 Leyendo sobre nuevas tecnologías y tendencias
-- 🧩 Resolviendo puzzles y problemas de lógica
-- 🎵 Escuchando música mientras codifico
-- 🌱 Aprendiendo idiomas de programación nuevos
+### 📅 Objetivos 2025
 
-## 🏆 Logros y Contribuciones
+**Proyectos:**
+- [ ] 🏦 Completar y desplegar Decoralbank en producción
+- [ ] 🌐 Desarrollar portafolio web personal
+- [ ] 📱 Crear aplicación móvil completa con Flutter
 
-- 📈 **75+ contribuciones** en el último año
-- 🔥 Contribuidor activo en múltiples repositorios
-- 💡 Creador de proyectos innovadores en diferentes tecnologías
-- 🎯 Enfoque en código limpio y buenas prácticas
-- 🏅 Desarrollador versátil con experiencia en 5+ lenguajes
+**Aprendizaje:**
+- [ ] ☁️ Obtener certificación AWS Solutions Architect
+- [ ] 🏗️ Dominar arquitectura de microservicios y Docker
+- [ ] 🤝 Contribuir activamente a 3+ proyectos open source
 
-## 🌟 Filosofía de Desarrollo
+**Profesional:**
+- [ ] 🎯 Participar en hackathons y competencias
+- [ ] 📚 Completar especialización en desarrollo full-stack
+- [ ] 🌟 Construir red profesional en la industria tech
 
-> "El código no solo debe funcionar, debe ser elegante, mantenible y resolver problemas reales."
+---
 
-- **Calidad sobre cantidad:** Prefiero escribir código limpio y bien documentado
-- **Aprendizaje continuo:** Siempre explorando nuevas tecnologías y metodologías
-- **Colaboración:** Creo en el poder del trabajo en equipo y el código abierto
-- **Innovación:** Busco constantemente formas creativas de resolver problemas
+## 💡 Filosofía de Desarrollo
 
-## 📈 Objetivos 2025
+> *"El código no solo debe funcionar, debe ser elegante, mantenible y resolver problemas reales de manera innovadora."*
 
-- [ ] Contribuir a más proyectos open source
-- [ ] Dominar Flutter y crear una app completa
-- [ ] Aprender desarrollo web full-stack
-- [ ] Participar en hackathons y competencias de programación
-- [ ] Crear un portafolio web personal
+### 🌟 Principios Fundamentales
 
-## 📫 ¡Conectemos!
+**🎯 Calidad Primero**  
+Escribo código limpio, documentado y testeable que perdure en el tiempo.
+
+**📚 Aprendizaje Continuo**  
+Siempre explorando nuevas tecnologías y metodologías de desarrollo.
+
+**🤝 Colaboración Efectiva**  
+Creo en el poder del trabajo en equipo y la contribución al código abierto.
+
+**💡 Innovación Constante**  
+Busco soluciones creativas y eficientes para problemas complejos.
+
+**🌱 Crecimiento Sostenible**  
+Cada proyecto es una oportunidad de aprender y mejorar.
+
+---
+
+## 📫 Conecta Conmigo
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shadowfer)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernely845@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernelyflores/)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/fercho.idk)
+[![Email Académico](https://img.shields.io/badge/-Email_Académico-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernely.flores@tecdesoftware.edu.mx)
+[![Email Personal](https://img.shields.io/badge/-Email_Personal-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernely845@gmail.com)
 
 </div>
 
@@ -147,8 +189,12 @@ const shadowfer = {
 
 <div align="center">
   
-**"Transformando ideas en código, un commit a la vez"** 💻✨
+**💻 "Transformando ideas en código, construyendo el futuro digital" ✨**
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+*Estudiante de Ingeniería | Desarrollador Full-Stack | Innovador Tecnológico*
+
+**¡Gracias por visitar mi perfil!** 🚀
 
 </div>
+```
+
